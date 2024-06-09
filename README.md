@@ -1,7 +1,7 @@
 
 <!-- Para abrir el preview en Atom: ^ (control) + shift + M -->
 
-# M A N I F E S T    CATLLAR VERD NO HUB
+# M A N I F E S T    >> CATLLAR VERD NO HUB <<
 
 <!-- Para crear un índice -->
 ## -----------------------------------------------------------------
@@ -52,34 +52,5 @@ No voldríem deixar de parlar dels efectes negatius directes que provocaria el p
 
 
 
-### Imagen
-![Imagen de logo][logo]
-
-
-
-
-<!-- Links -->
-[myTwitter]:http://twitter.com/matCorrenti
-[iOS_9.0]:https://img.shields.io/badge/iOS-≥_9.0-5658FE.svg?colorA=5658FE
-[swift_3.0]:https://img.shields.io/badge/Swift-≥_3.0-EF5138.svg?colorA=EF5138
-[xcode_3.2]:https://img.shields.io/badge/Xcode-≥_3.2-2A92F4.svg?colorA=2A92F4
-[Platform]:https://img.shields.io/badge/platform-ios-lightgrey.svg
-[License]:https://img.shields.io/badge/license-MIT-383838.svg
-
-
-<!-- Otros -->
-[appStore]:https://itunes.apple.com/ar/app/luteranos/id1137428395
-[appStoreBagge]:https://img.shields.io/badge/Download_App-Luteranos-1C5FAD.svg
-[twitter]:https://img.shields.io/twitter/follow/matCorrenti.svg?style=social&label=Follow&maxAge=3600
-[testXc]:https://img.shields.io/badge/Xcode-≥_3.2-2A92F4.svg?colorA=0873A4
-[cocoDocs]:https://img.shields.io/cocoapods/metrics/doc-percent/EXTClass.svg
-[tag]:https://img.shields.io/github/tag/Saitco/EXTClass.svg
-[release]:https://img.shields.io/github/release/Saitco/EXTClass.svg
-[issuesOpen]:https://img.shields.io/github/issues/Saitco/README.svg
-[licenseGitHub]:https://img.shields.io/github/license/Saitco/README.svg
-[dowEXTClass]:https://img.shields.io/github/downloads/Saitco/README/total.svg
-[commitEXT]:https://img.shields.io/github/commits-since/Saitco/EXTClass/0.3.2.svg
-
-
-<!-- Links Imagenes -->
-[logo]:https://github.com/Saitco/README/blob/master/img/rosaL.png "Icono de la App"
+### Qui som 
+[logo] https://github.com/Cal-Jueu/NOHUB_/blob/main/EscudoCATLLARVERD%2015X15.png
